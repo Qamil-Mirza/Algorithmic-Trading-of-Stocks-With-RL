@@ -1,0 +1,5 @@
+paths:
+  apple_path: /raw-data/stocks/AAPL.csv
+
+hyperparameters:
+  total_timesteps: 1000000
